@@ -1,4 +1,4 @@
-const serverURL = 'https://api.funtranslations.com/translate/minion.json';
+const serverURL = 'https://api.funtranslations.com/translate/ferb-latin.json';
 
 let input = document.querySelector('#text-input')
 let output = document.querySelector('#text-output')
