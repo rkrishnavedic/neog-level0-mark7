@@ -1,0 +1,47 @@
+@import url('https://fonts.googleapis.com/css2?family=Indie+Flower&display=swap');
+body{
+    font-family: 'Indie Flower', cursive;
+}
+
+h2{
+    padding: 1%;
+    background-color: peachpuff;
+    text-align: center;
+    outline: 1px solid rgb(255, 119, 0);
+}
+
+section{
+    text-align: center;
+}
+
+.output{
+    font-size: 15px;
+    text-align: center;
+    outline: 1px dashed;
+    max-width: 400px;
+    margin: auto;
+}
+
+button{
+    border: 1px;
+    padding: 1%;
+    outline: 0.2px dashed black;
+    background-color: orange;
+    margin: auto;
+}
+
+button:hover{
+    background-color: rgb(255, 136, 0);
+    outline: 0.2px dashed rgb(255, 0, 0);
+}
+
+button:active{
+    color: peachpuff;
+    background-color: rgb(255, 115, 0);
+}
+
+footer{
+    outline: 1px solid rgb(255, 0, 0);
+    background-color:peachpuff;
+    text-align: center;
+}
